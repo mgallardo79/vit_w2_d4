@@ -1,15 +1,17 @@
 
-<head>
+
 <body {
     margin: 0;
 }
-        <style>
-        img{
+
+        .logo__image {
             float: left;
-        }
-        * {
             box-sizing: border-box;
+            width: 150px;
+            padding: 3rem;
+            object-fit: none;
         }
+       
 
         /*Style the header*/
         .header {
